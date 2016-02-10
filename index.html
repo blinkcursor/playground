@@ -1,0 +1,29 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <!-- Add your site or application content here -->
+        <h1>Test site</h1>
+        <p>What happens if we use srcset and sizes and clone nodes at different sizes?</p>
+        <p>So, we'll be needing an initial image, and a button to clone the image</p>
+        <div class="img-wrapper">
+            <img srcset="300.jpg 300w,
+                         500.jpg 500w,
+                         700.jpg 700w"
+                 sizes="50vw">
+        </div>
+        <button>Clone</button>
+        <div class="clone-wrapper"></div>
+
+        <!-- load script -->
+        <script src="js/domready.js"></script>
+    </body>
+</html>
