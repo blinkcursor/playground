@@ -5,9 +5,7 @@
 
 	function cloneImg(e){
 		newImg = document.querySelector('img').cloneNode(true);
-//		console.log(newImg.sizes);
-		newImg.attributes.sizes = "100vw";
-//		console.log(newImg.srcset);
+		newImg.setAttribute('sizes', '100vw');
 		clone.appendChild(newImg);
 	}
 })()

@@ -14,13 +14,28 @@
         <h1>Test site</h1>
         <p>What happens if we use srcset and sizes and clone nodes at different sizes?</p>
         <p>So, we'll be needing an initial image, and a button to clone the image</p>
-        <div class="img-wrapper">
+        <div class="wrapper33">
+            <img srcset="300.jpg 300w,
+                         500.jpg 500w,
+                         700.jpg 700w"
+                 sizes="33vw">
+        </div>
+        <button>Clone</button>
+
+        <div class="wrapper50">
             <img srcset="300.jpg 300w,
                          500.jpg 500w,
                          700.jpg 700w"
                  sizes="50vw">
         </div>
-        <button>Clone</button>
+
+        <div class="wrapper100">
+            <img srcset="300.jpg 300w,
+                         500.jpg 500w,
+                         700.jpg 700w"
+                 sizes="100vw">
+        </div>
+
         <div class="clone-wrapper"></div>
 
         <!-- load script -->
