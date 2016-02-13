@@ -14,13 +14,15 @@
 
 		cacheVars: function(){
 			this.dppx = window.devicePixelRatio || 1;
+			this.elButton = document.querySelector('button');
 		},
 
 		bindEvents: function(){
 			window.addEventListener('resize', this.showPageMeta.bind(this), false);
 			window.addEventListener('resize', this.showTestMeta.bind(this), false);
-
-			document.querySelector('button').addEventListener('click', this.cloneImg, false);
+			if (this.elButton) {
+				this.elButton.addEventListener('click', this.cloneImg, false);
+			}
 		},
 
 		showPageMeta: function(){
