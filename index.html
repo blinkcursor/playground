@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="">
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -10,39 +10,106 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <!-- Add your site or application content here -->
-        <h1>Test site</h1>
-        <p>What happens if we use srcset and sizes and clone nodes at different sizes?</p>
-        <p>So, we'll be needing an initial image, and a button to clone the image</p>
-        <div class="wrapper33">
-            <img srcset="300.jpg 300w,
-                         500.jpg 500w,
-                         700.jpg 700w"
-                 sizes="33vw">
-        </div>
-        <button>Clone</button>
+        <h1>Testing srcset and sizes browser implementation</h1>
+        <div class="screen-width">Screen width = <span class="js-width--screen"></span>px &amp; device pixel ratio = <span class="js-dppx"></span></div>
 
-        <div class="wrapper50">
+        <div class="test width-33">
+            <h3><a href="test1.html">Test 1</a></h3>
+            <div class="meta">
+                <p>Image contained in div of width 33.33%</p>
+                <div class="js-code"></div>
+                <div>
+                    <p>Container width in CSS px = <span class="js-width--css"></span></p>
+                    <p>Container width in display pixels = <span class="js-width--dppx"></span></p>
+                </div>
+                <div>Browser should choose:
+                    <div class="meta__expected">
+                        <span class="w300">300</span>
+                        <span class="w500">500</span>
+                        <span class="w700">700</span>
+                        <span class="w1200">1200</span>
+                    </div>
+                </div>
+            </div>
             <img srcset="300.jpg 300w,
                          500.jpg 500w,
-                         700.jpg 700w"
-                 sizes="50vw">
+                         700.jpg 700w,
+                         1200.jpg 1200w"
+                 sizes="33.33vw"
+                 src="700.jpg">
         </div>
 
-        <div class="wrapper100">
+        <div class="test width-50">
+            <h3><a href="test2.html">Test 2</a></h3>
+            <div class="meta">
+                <p>Image contained in div of width 50%</p>
+                <div class="js-code"></div>
+                <div>
+                    <p>Container width in CSS px = <span class="js-width--css"></span></p>
+                    <p>Container width in display pixels = <span class="js-width--dppx"></span></p>
+                </div>
+                <div>Browser should choose:
+                    <div class="meta__expected">
+                        <span class="w300">300</span>
+                        <span class="w500">500</span>
+                        <span class="w700">700</span>
+                        <span class="w1200">1200</span>
+                    </div>
+                </div>
+            </div>
             <img srcset="300.jpg 300w,
                          500.jpg 500w,
-                         700.jpg 700w"
+                         700.jpg 700w,
+                         1200.jpg 1200w"
+                 sizes="50vw"
+                 src="700.jpg">
+        </div>
+
+        <div class="test width-100">
+            <h3><a href="test3.html">Test 3</a></h3>
+            <div class="meta">
+                <p>Image contained in div of width 100%</p>
+                <div class="js-code"></div>
+                <div>
+                    <p>Container width in CSS px = <span class="js-width--css"></span></p>
+                    <p>Container width in display pixels = <span class="js-width--dppx"></span></p>
+                </div>
+                <div>Browser should choose:
+                    <div class="meta__expected">
+                        <span class="w300">300</span>
+                        <span class="w500">500</span>
+                        <span class="w700">700</span>
+                        <span class="w1200">1200</span>
+                    </div>
+                </div>
+            </div>
+            <img srcset="300.jpg 300w,
+                         500.jpg 500w,
+                         700.jpg 700w,
+                         1200.jpg 1200w"
                  sizes="100vw"
                  src="700.jpg">
         </div>
 
-        <div class="wrapper100">
+<!--         <div class="width-100">
+            <h3>Memo - max-width is ignored by all browsers</h3>
+            <div class="meta">
+                <p>When using srcset &amp; sizes, max-width is ignored. The &lt;img&gt; size is determined by sizes</p>
+                <p>Here is an &lt;img&gt; with src=&quot;700.jpg&quot; with max-width = 100%.</p>
             <img src="700.jpg">
+        </div> -->
+
+
+        <div class="width-50">
+            <h3>Dynamically add images test</h3>
+            <div class="meta">
+                <p>Clone the image from test1, then update its sizes attribute to the same as test2, then add to the DOM. The result should be the same as test2.</p>
+                <button>Clone</button>
+            </div>
+            <div class="clone-wrapper"></div>
         </div>
 
-
-        <div class="clone-wrapper"></div>
+        <footer></footer>
 
         <!-- load script -->
         <script src="domready.js"></script>
