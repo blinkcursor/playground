@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoogleCustomizations>
+
+  <CustomSearchEngine>
+    <Title>preSearch engine</Title>
+    <Description>Custom search for pinboard links</Description>
+
+    <Context>
+      <BackgroundLabels>
+        <Label name="presearch1234" mode="FILTER"/>
+      </BackgroundLabels>
+    </Context>
+
+  </CustomSearchEngine>
+
+  <Include type="Annotations" href="http://blinkcursor.github.io/playground/cse/annotations2.xml"/>
+</GoogleCustomizations>
