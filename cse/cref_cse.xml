@@ -1,0 +1,31 @@
+<GoogleCustomizations>
+	<CustomSearchEngine>
+		<Title>Vejer hotels</Title>
+		<Description>
+			A Google Custom Search Engine that only includes Vejer hotels
+		</Description>
+		<Context>
+			<BackgroundLabels>
+				<Label name="vejer_hotels" mode="FILTER"/>
+			</BackgroundLabels>
+		</Context>
+		<LookAndFeel nonprofit="true">
+			<Colors url="#FF6600" background="#FFFF33" border="#FF6600" title="#FF3300" text="#000000" visited="#663399" light="#FF0077"/>
+		</LookAndFeel>
+	</CustomSearchEngine>
+
+	<Annotations>
+		<Annotation about="http://www.escondrijo.com/*">
+			<Label name="vejer_hotels"/>
+		</Annotation>
+		<Annotation about="http://www.vejerisimo.com/*">
+			<Label name="vejer_hotels"/>
+		</Annotation>
+
+		<Annotation about="https://24ways.org/2015/animating-your-brand/">
+			<Label name="vejer_hotels"/>
+		</Annotation>
+
+
+	</Annotations>
+</GoogleCustomizations>

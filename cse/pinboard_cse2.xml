@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoogleCustomizations>
+  <CustomSearchEngine>
+    <Title>preSearch engine</Title>
+    <Description>Custom search for pinboard links</Description>
+    <Context>
+      <BackgroundLabels>
+        <Label name="presearch1234" mode="FILTER"/>
+      </BackgroundLabels>
+    </Context>
+  </CustomSearchEngine>
+  <Annotations>
+    <Annotation about="http://johnpolacek.com/content-display-patterns/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://css-tricks.com/creating-svg-icon-system-react/#more-238780">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://open-foundry.com/hot30">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/marxo/Canonical.css/blob/master/canonical.scss">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://css-tricks.com/learning-react-router/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://hacks.mozilla.org/2015/03/this-api-is-so-fetching/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://ma.ttias.be/technical-guide-seo/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.salon.com/2016/03/05/homework_is_wrecking_our_kids_the_research_is_clear_lets_ban_elementary_homework/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://harpjs.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://jxnblk.com/writing/posts/zero-configuration-react-static-site-generator/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://jxnblk.com/rebass/#">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.listjs.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://alistapart.com/article/validating-product-ideas">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://livestyle.io/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://facebook.github.io/draft-js/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://callmecavs.com/bricks.js/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://leejordan.github.io/reflex/docs/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://dev.edenspiekermann.com/2016/02/11/introducing-accessible-modal-dialog/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://hacks.mozilla.org/2016/02/html-5-game-development-video-series/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://www.deepstream.io/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://cards.edenspiekermann.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/yahoo/gifshot">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://www.smashingmagazine.com/2016/02/building-first-class-app-leverages-website-case-study/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://daverupert.com/2015/12/intrinsic-placeholders-with-picture/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://www.youtube.com/watch?v=CozSF5abcTA">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/feross/standard">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://mjml.io/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://davidwalsh.name/for-and-against-let">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://johnpolacek.github.io/expressive-css/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/DrkSephy/es6-cheatsheet">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.threadbird.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.nytimes.com/2016/01/31/opinion/sunday/how-to-raise-a-creative-child-step-one-back-off.html?smprod=nytcore-iphone&amp;smid=nytcore-iphone-share&amp;_r=0">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.theguardian.com/books/2016/jan/29/first-bite-how-we-learn-to-eat-bee-wilson-review">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://www.smashingmagazine.com/2016/02/making-a-service-worker/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.zachleat.com/web/critical-webfonts/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://kinto.readthedocs.org/en/latest/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://tutor.mantrajs.com/say-hello-to-ES2015/introduction">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://usepencil.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.responsivebreakpoints.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://camjackson.net/post/9-things-every-reactjs-beginner-should-know">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://medium.com/@primozcigler/neat-trick-for-css-object-fit-fallback-on-edge-and-other-browsers-afbc53bbb2c3#.fwc1atj0c">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://www.youtube.com/watch?v=j2DMwUYEC88">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://webcomponents.org/articles/introduction-to-template-element/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.html5rocks.com/en/tutorials/webcomponents/template/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://medium.com/@primozcigler/neat-trick-for-css-object-fit-fallback-on-edge-and-other-browsers-afbc53bbb2c3#.wcgmdw9mj">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://conversionxl.com/improving-clarity">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/mxstbr/react-boilerplate/tree/v3.0.0">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://callmenick.com/post/last-in-first-out-css-transitions">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://coryetzkorn.com/blog/choosing-the-best-cms/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://andy-carter.com/blog/a-beginners-guide-to-the-task-runner-gulp">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.zell-weekeat.com/nunjucks-with-gulp/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://flexbox.io/#/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://ahmadawais.com/introducing-wpgulp-an-easy-to-use-wordpress-gulp-boilerplate">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://glenmaddern.com/articles/css-modules">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/rofrischmann/react-look">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://blog.intercom.io/using-job-stories-design-features-ui-ux/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://atmospherejs.com/okgrow/rest2ddp">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://vuejs.org/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://pusher.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://featurejs.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://www.youtube.com/watch?v=LTbnmiXWs2k">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://riadbenguella.com/from-actions-creators-to-sagas-redux-upgraded/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/jlevy/the-art-of-command-line">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/thalesmello/exploring-async/blob/master/exploring_async.md">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/ustwo/ustwo.com-frontend">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://adactio.com/journal/10019">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://colorify.rocks/demo.html">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://ionicabizau.github.io/gridly/example/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://blog.cloudfour.com/responsive-guide-to-type-sizing/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://callmenick.com/post/various-css-input-text-styles">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/AllThingsSmitty/css-protips">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://ponyfoo.com/articles/es6">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://pngmini.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://blog.colepeters.com/building-and-shipping-functional-css/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://baymard.com/blog/mobile-touch-keyboards">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://surge.sh/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://wpbestpractices.com/wordpress-4-4-responsive-images/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/jlmakes/scrollreveal.js">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://www.skillshare.com/orientation/saveClasses">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://wesbos.com/javascript-modules/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://riteshkr.com/embed.js/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://reactcheatsheet.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://tennentbrown.co.nz/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/10up/flexibility">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://www.youtube.com/watch?v=2vFrZXWiwIc">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://colourgarden.net/avalanche/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://braddunbar.net/2013/08/19/underscore-templates/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://css-tricks.com/getting-started-wordpress-customizer/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.drmongo.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://www.jukedeck.com/make/tracks/all">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://tommcfarlin.com/object-oriented-wordpress-meta-boxes">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.baubauhaus.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://www.youtube.com/watch?v=3QOh955yh0Y&amp;feature=youtu.be&amp;a">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://arc.applause.com/2015/11/30/application-shell-architecture/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://rmurphey.com/blog/2015/11/25/building-for-http2">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://blissfuljs.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/gcorne/wp-react-boilerplate">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://speakerdeck.com/rachelbaker/build-a-theme-with-the-wp-rest-api">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://medium.com/@Heydon/flexbox-grid-finesse-4d22b80bfee1#.vbzmtoehh">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://codepen.io/collection/nMgKxJ/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://24ways.org/2015/animating-your-brand/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://neethack.com/2015/10/lets-build-react-dot-js/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://egghead.io/lessons/javascript-redux-describing-state-changes-with-actions?series=getting-started-with-redux">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://redux.js.org/index.html">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.mybridge.co/view/1404">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.smashingmagazine.com/2015/11/technical-seo-2015-wiring-websites-organic-search/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://medium.com/@chetcorcos/shindig-an-event-discovery-app-built-with-meteor-js-react-js-and-neo4j-602afb483ae6#.z7spxcytr">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://bennettfeely.com/clippy/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://chrislema.com/marketing-your-software-product/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://joshowens.me/using-mongodb-aggregations-to-power-a-meteor-js-publication/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://cubic-bezier.com/#.17,.67,.83,.67">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://easings.net/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://mojs.io/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://silverflows.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://pagely.com/blog/2015/11/wordpress-seo-audit/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://medium.com/@addyosmani/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://react-toolbox.com/#/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.theatlantic.com/magazine/archive/2015/03/what-isis-really-wants/384980/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.filmsforaction.org/articles/from-pol-pot-to-isis-anything-that-flies-on-everything-that-moves/#.VkiT5u2c6aY.facebook">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://apmblog.dynatrace.com/2015/11/04/understanding-garbage-collection-and-hunting-memory-leaks-in-node-js/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://medium.com/@eliezer/first-experiences-scaling-a-meteor-app-14a48e62a4af">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://realtimeboard.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/arunoda/meteor-up">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.theguardian.com/world/2015/nov/06/religious-children-less-altruistic-secular-kids-study">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/timbrandin/sideburns">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/neutraltone/awesome-stock-resources">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.smashingmagazine.com/2015/11/flexbox-interfaces-tracks-case-study/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://codepen.io/viljamis/pen/WQyPxV">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.lovelyui.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://mkremins.github.io/blog/doors-headaches-intellectual-need/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://navnav.co/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://getgrav.org/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://viget.com/inspire/angled-edges-with-css-masks-and-transforms">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://brianjackson.io/wordpress-cache-enabler">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://una.im/CSSgram/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://codepen.io/joeldrapper/pen/ZbrRvR">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://alistapart.com/article/object-oriented-ux">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://www.lightningdesignsystem.com/components/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/chenglou/react-motion">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://trix-editor.org/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://parse.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://github.com/jwagner/smartcrop.js/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://www.frontendhandbook.com/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://yabwe.github.io/medium-editor/">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="http://zurb.com/playground/motion-ui">
+      <Label name="presearch1234"/>
+    </Annotation>
+    <Annotation about="https://helloanselm.com/2015/using-webfonts-in-2015/">
+      <Label name="presearch1234"/>
+    </Annotation>
+  </Annotations>
+</GoogleCustomizations>

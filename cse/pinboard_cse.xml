@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoogleCustomizations>
+
+  <CustomSearchEngine>
+    <Title>preSearch engine</Title>
+    <Description>Custom search for pinboard links</Description>
+
+    <Context>
+      <BackgroundLabels>
+        <Label name="presearch1234" mode="FILTER"/>
+      </BackgroundLabels>
+    </Context>
+
+  </CustomSearchEngine>
+
+  <Annotations>
+    <Annotation about="http://johnpolacek.com/content-display-patterns/">
+      <Label name="presearch1234"/>
+    </Annotation>
+
+    <Annotation about="https://css-tricks.com/creating-svg-icon-system-react/#more-238780">
+      <Label name="presearch1234"/>
+    </Annotation>
+
+    <Annotation about="http://open-foundry.com/hot30">
+      <Label name="presearch1234"/>
+    </Annotation>
+
+    <Annotation about="https://github.com/marxo/Canonical.css/blob/master/canonical.scss">
+      <Label name="presearch1234"/>
+    </Annotation>
+
+    <Annotation about="https://css-tricks.com/learning-react-router/">
+      <Label name="presearch1234"/>
+    </Annotation>
+
+    <Annotation about="https://hacks.mozilla.org/2015/03/this-api-is-so-fetching/">
+      <Label name="presearch1234"/>
+    </Annotation>
+
+  </Annotations>
+</GoogleCustomizations>
